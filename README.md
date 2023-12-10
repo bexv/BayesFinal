@@ -11,12 +11,12 @@ ProjectEDA.ipynb contains the EDA, and the BayesvanNostrandHammer.ipynb contains
 
 The Bayesml (Don Brown) environment is used for modeling with the following packages: 
 
-pandas\
-numpy\
-pymc\
-matplotlib\
-seaborn\
-arviz\
-scipy\
-sklearn\
+pandas<br/>
+numpy<br/>
+pymc<br/>
+matplotlib<br/>
+seaborn<br/>
+arviz<br/>
+scipy<br/>
+sklearn<br/>
 
